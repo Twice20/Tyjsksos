@@ -1,7 +1,7 @@
 # ==== НАСТРОЙКИ БОТА ====
 
 # Токен бота, полученный у @BotFather
-BOT_TOKEN = "8977103579:AAGBoryILNDY1POxBL35LsKt4jbmAWjVIac"
+BOT_TOKEN = ""
 
 # Твой Telegram ID (админ)
 ADMIN_ID = 8171375787
